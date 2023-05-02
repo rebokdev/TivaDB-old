@@ -1,12 +1,9 @@
 # TivaDB
-
 ## A simple DataBase written fully in kotlin
 
+### The goal is to make crashLess DB. To make it one of the stablest DBs available for FREE.
 
-
-### The goal is to make crashLess DB. To make it one of the stablest.
-
-
+The commits on github only contains stable versions of the code.
 
 #### Features:
 
