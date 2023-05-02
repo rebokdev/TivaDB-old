@@ -10,8 +10,6 @@
 
 #### Features:
 
-- [x] Basic data store in memory
-
 - [ ] Save the data on the drive
 
 - [ ] Backup solutions
